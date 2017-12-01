@@ -39,8 +39,9 @@
 - Typing business letters and reports 
 - Filing documents 
 - Receiving and sending off documents and parcels 
-- Arranging appointments 
-- G: Numerical & Financial Transactions
+- Arranging appointments
+
+### G: Numerical & Financial Transactions
 - Working with figures most of the time 
 - Keeping careful record of financial transactions 
 - Checking the financial statements of a company 
